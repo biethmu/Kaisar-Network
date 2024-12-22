@@ -1,0 +1,32 @@
+{
+  "name": "kaisanode-bot",
+  "version": "1.0.0",
+  "description": "一个自动化挖矿和任务领取工具。",
+  "main": "bot.js",
+  "type": "module", 
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "https-proxy-agent": "^7.0.5",
+    "chalk": "^5.3.0"
+  },
+  "keywords": [
+    "kaisar-bot",
+    "kaisar-node",
+    "kaisar-extension",
+    "kaisar-cli",
+    "挖矿",
+    "自动化",
+    "任务",
+    "注册",
+    "登录",
+    "签到",
+    "automation",
+    "mining",
+    "bot"
+  ],
+  "author": "您的名字",
+  "license": "MIT"
+}
